@@ -14,7 +14,7 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Overwrite the exisitng _echoAR/RemoteTransformations.cs_ script with the new [_RemoteTransformations.cs_](https://github.com/echoARxyz/Unity-ARFoundation-echoAR-demo-Face-Tracking/blob/master/RemoteTransformations.cs) file.
 
 ## Build & Run
-* [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application). Verify that the `FaceTracking` scene is ticked in the `Scenes in Build` list and click `Build And Run`.
+* [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application). Verify that the `AR Foundation\Scenes\FaceTracking\FacePose` scene is ticked in the `Scenes in Build` list and click `Build And Run`.
 
 ## Learn more
 Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
