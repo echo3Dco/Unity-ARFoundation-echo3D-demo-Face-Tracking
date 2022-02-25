@@ -6,7 +6,7 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://consol
 
 ## Setup
 * Create a new Unity project.
-* Clone the [Unity-ARFoundation-echo3D](https://github.com/echo3Dco/Unity-ARFoundation-echo3D) sample code.
+* Clone the [Unity-ARFoundation-echo3D](https://github.com/echo3Dco/Unity-ARFoundation-echo3D-example) sample code.
 * Open the sample scene under `AR Foundation\Scenes\FaceTracking\FacePost.unity`.
 * [Set the API key](https://docs.echo3D.co/unity/using-the-sdk) in the `echo3D.cs` script inside the `echo3D\echo3D.prefab` using the the Inspector.
 * [Add the 3D model](https://docs.echo3D.co/quickstart/add-a-3d-model) from the [models](https://github.com/echo3Dco/Unity-ARFoundation-echo3D-demo-Face-Tracking/tree/master/models) folder to the console.
